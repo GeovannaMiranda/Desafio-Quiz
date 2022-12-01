@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@700&display=swap');
+
+.inicio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 60px;
+}
+
+.titulo{
+    font-family: 'Pacifico', cursive;
+    font-size: 150px;
+}
+
+.linha{
+    width: 400px;
+}
